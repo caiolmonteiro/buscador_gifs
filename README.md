@@ -1,16 +1,19 @@
-# buscador_gifs
+# Localizador de Gifs
 
-A new Flutter application.
+Este é o meu quinto projeto mobile com Flutter e Dart. Estou fazendo esse curso via Udemy. Acompanhe minha evolução!
 
-## Getting Started
+Esse projeto é um localizador de gifs, onde procuramos por palavras chaves e o app nos retorna os gifs correnspondentes com a busca, podendo até a encaminhar alguns gifs desejados para outras plataformas.
 
-This project is a starting point for a Flutter application.
+  - Irei postar as atualizações de acordo com a progressão do curso;
+  - Sinta-se livre para acessar e baixar todos meus projetos;
 
-A few resources to get you started if this is your first Flutter project:
+### Contato
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Abaixo algumas informações para contato :
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Rede |  |
+| ------ | ------ |
+| Linkedin | [https://www.linkedin.com/in/caioleaomonteiro/] |
+| GitHub | [https://github.com/caiolmonteiro] |
+| Gmail | [caioleaomonteiro@gmail.com] |
+| Hotmail | [caiolmonteiro@hotmail.com] |
